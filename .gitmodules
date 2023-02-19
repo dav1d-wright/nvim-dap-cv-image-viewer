@@ -1,0 +1,3 @@
+[submodule "lua/pngencoder"]
+	path = lua/pngencoder
+	url = https://github.com/wyozi/lua-pngencoder.git
